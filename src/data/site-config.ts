@@ -92,8 +92,8 @@ const siteConfig: SiteConfig = {
 
         },
         {
-            text: 'medium',
-            href: 'https://https://simtop.medium.com/'
+            text: 'Medium',
+            href: 'https://simtop.medium.com/'
         }
     ],
     hero: {
