@@ -38,9 +38,9 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: 'Simon Topchyan Najarian',
+    subtitle: 'Blog',
+    description: 'Portafolio and blog for Simon',
     image: {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
@@ -83,15 +83,15 @@ const siteConfig: SiteConfig = {
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'Github',
+            href: 'github.com/simtop'
         },
         {
-            text: 'Instagram',
+            text: 'Linkedin',
             href: 'https://instagram.com/'
         },
         {
-            text: 'X/Twitter',
+            text: 'medium',
             href: 'https://twitter.com/'
         }
     ],
