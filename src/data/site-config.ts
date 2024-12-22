@@ -84,15 +84,16 @@ const siteConfig: SiteConfig = {
     socialLinks: [
         {
             text: 'Github',
-            href: 'github.com/simtop'
+            href: 'https://github.com/simtop'
         },
         {
             text: 'Linkedin',
-            href: 'https://instagram.com/'
+            href: 'https://www.linkedin.com/in/simontopchyan'
+
         },
         {
             text: 'medium',
-            href: 'https://twitter.com/'
+            href: 'https://https://simtop.medium.com/'
         }
     ],
     hero: {
